@@ -1,0 +1,10 @@
+
+<resources>
+ <string name="app_name">Choose your Favourite Show</string>
+ <string-array name="show">
+ <item>Legend Of the Blue Sea </item>
+ <item>Secret Garden</item>
+ <item>Pinocchio</item>
+ <item>Descendants Of the Sun</item>
+ </string-array>
+</resources>
